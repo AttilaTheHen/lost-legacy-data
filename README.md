@@ -1,2 +1,3 @@
-# lost-legacy-data
-A JSON file of our Lost Legacy game stats.
+Lost Legacy stats
+=====
+A simple JSON file of Lost Legacy games played.

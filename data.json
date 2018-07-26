@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Arthur Jen",
+        "wins": 1,
+        "kills": 2,
+        "datesPlayed": [
+            {
+                "7/26/18": {
+                    "variantPlayed": "Miasma-Assault-Search-Seal-FlyingGuardian-Guardian-Thief-Lord-Sister",
+                    "gamesPlayed": 8
+                }
+            }
+        ]
+    },
+    {
+        "name": "Bobby Thompson",
+        "wins": 3,
+        "kills": 3,
+        "datesPlayed": [
+            {
+                "7/26/18": {
+                    "variantPlayed": "Miasma-Assault-Search-Seal-FlyingGuardian-Guardian-Thief-Lord-Sister",
+                    "gamesPlayed": 8
+                }
+            }
+        ]
+    },
+    {
+        "name": "Easton Gorishek",
+        "wins": 1,
+        "kills": 0,
+        "datesPlayed": [
+            {
+                "7/26/18": {
+                    "variantPlayed": "Miasma-Assault-Search-Seal-FlyingGuardian-Guardian-Thief-Lord-Sister",
+                    "gamesPlayed": 8
+                }
+            }
+        ]
+    },
+    {
+        "name": "Injoong Yoon",
+        "wins": 4,
+        "kills": 1,
+        "datesPlayed": [
+            {
+                "7/26/18": {
+                    "variantPlayed": "Miasma-Assault-Search-Seal-FlyingGuardian-Guardian-Thief-Lord-Sister",
+                    "gamesPlayed": 8
+                }
+            }
+        ]
+    }
+]
